@@ -1,7 +1,7 @@
 # Written on Python 3.8.1 and Testing on linuxs & windows .
 # I decided to Write SandBox Client to Graph app .
 # Dependencies libraries : json , matplotlib , xml for fast installation  - > pip install matplotlib
-from SandBox import App , Config
+from SandBox import App
 
 # by defuelt the file name will be app.xml , its for option to load from different file .
 my_app = App(filename="app.xml")

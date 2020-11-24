@@ -102,3 +102,4 @@ class App(Config):
 
     def __repr__(self):
         return "Weclcome to App Class, for now its only Graph in the future will be more :)"
+
